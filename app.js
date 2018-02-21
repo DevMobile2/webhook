@@ -200,7 +200,7 @@ restService.post("/slack-test", function(req, res) {
 restService.get('/', function (req, res) {
    res.send('Hello World');
 })
-
-restService.listen(process.env.PORT || 8000, function() {
+var port = process.env.PORT || 8000
+restService.listen(port, function() {
   console.log("Server up and listening");
 });
