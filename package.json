@@ -1,0 +1,22 @@
+{
+  "name": "webhook",
+  "version": "1.0.0",
+  "description": "webhook for my chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rameshmkll/webhook.git"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "ramesh  m",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rameshmkll/webhook/issues"
+  },
+  "homepage": "https://github.com/rameshmkll/webhook#readme"
+}
